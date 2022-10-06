@@ -12,3 +12,13 @@ https://docs.cryptowat.ch/rest-api
 
 ## numpy
 https://numpy.org/
+
+## panda 
+https://pandas.pydata.org/
+
+## install && run jupyter
+https://jupyter.org/install
+pip install jupyterlab
+jupyter-lab
+pip install notebook
+jupyter notebook
