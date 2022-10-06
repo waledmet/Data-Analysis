@@ -12,9 +12,15 @@ https://docs.cryptowat.ch/rest-api
 
 ## numpy
 https://numpy.org/
+pip install numpy
 
 ## panda 
 https://pandas.pydata.org/
+pip install pandas
+
+## matplotlib
+https://matplotlib.org/
+pip install matplotlib
 
 ## install && run jupyter
 https://jupyter.org/install
@@ -22,3 +28,7 @@ pip install jupyterlab
 jupyter-lab
 pip install notebook
 jupyter notebook
+## jupyter style 
+https://www.ibm.com/docs/en/db2-event-store/2.0.0?topic=notebooks-markdown-jupyter-cheatsheet
+
+
